@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbreadz&label=Profile%20views&color=0e75b6&style=flat" alt="zbreadz" /> </p>
 
-- 🔭 I’m currently working on [Nullstack Framework](https://github.com/nullstack/)
-
-- 🌱 I’m currently learning **Nullstack, the full-stack dev framework**
-
 - 💬 Ask me about **C# and React**
 
 - 📫 How to reach me **davi.vieira2@etec.sp.gov.br**
