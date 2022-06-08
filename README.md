@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C# and React**
 
-- 📫 How to reach me **davi.vieira2@etec.sp.gov.br**
+- 📫 How to reach me **davioliveira353.do@gmail.com**
 
 - ⚡ Fun fact **Sometimes I watch some animes...**
 
